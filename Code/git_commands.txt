@@ -1,0 +1,17 @@
+Work Flow:
+
+1) Create repository use the file: ./create_git.sh 'REPO_NAME'
+
+Setting up GIT
+-------------
+1) mkdir 
+2) git rm origin
+3) git init ---> This initializes the git
+4) git add "File 1" "File 2" "File 3"
+5) git remote add origin git@github.com:username/REPO_NAME
+6) git commit -m 'MESSAGE'
+7) git push -u origin master
+
+//Now all files are added to the git repository
+
+   
