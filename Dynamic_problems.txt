@@ -1,7 +1,0 @@
-The set of dynamic problems to look at and solve.
-- coin
-- gold
-- letters
-- words
-- telephone numbers
-
